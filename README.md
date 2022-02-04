@@ -1,3 +1,13 @@
+You will need to reinstall the node modules
+Then run yarn to oinstall dependncies
+then Yarn start
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
