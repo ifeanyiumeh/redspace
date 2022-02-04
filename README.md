@@ -1,5 +1,5 @@
 You will need to reinstall the node modules
-Then run yarn to oinstall dependncies
+Then run yarn to install dependncies
 then Yarn start
 
 
